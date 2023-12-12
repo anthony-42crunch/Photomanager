@@ -16,10 +16,10 @@
 
 audit:
   branches:
-    master:
+    main:
       discovery:
         search:
           - '**/*.json'
           - '**/*.yaml'
           - '**/*.yml'
-          - '!foo/public/**'
+          - '!app/public/**'
