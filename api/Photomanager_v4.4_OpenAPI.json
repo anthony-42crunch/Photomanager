@@ -14,7 +14,7 @@
     },
     "servers": [
         {
-            "url": "http://server.example.com/api"
+            "url": "https://server.example.com/api"
         }
     ],
     "tags": [
