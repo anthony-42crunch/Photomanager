@@ -16,11 +16,8 @@
 
 audit:
   branches:
-    master:
+    **:
       discovery:
         search:
-          - 'api/*.json'
-    development:
-      discovery:
-        search:
-          - 'api/*.json'
+          - 'api/**/*.json'
+          - '!app/**'
