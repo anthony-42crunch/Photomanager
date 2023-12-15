@@ -15,9 +15,8 @@
 # Files in 'foo/' are not discovered.
 
 audit:
-  branches:
-    '**':
+  prs:
+    master:
       discovery:
         search:
           - 'api/**/*.json'
-          - '!app/**'
