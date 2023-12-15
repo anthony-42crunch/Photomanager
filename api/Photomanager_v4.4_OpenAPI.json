@@ -27,7 +27,7 @@
             "description": "Operations available to regular, logged in users"
         },
         {
-            "name": "anyone",
+            "name": "public",
             "description": "Operations available to anyone"
         },
         {
