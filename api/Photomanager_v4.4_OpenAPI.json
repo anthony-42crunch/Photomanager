@@ -42,7 +42,7 @@
                     "anyone"
                 ],
                 "summary": "user/password based login",
-                "description": "some change user supplies user name and password and receives a json web token",
+                "description": "some other change user supplies user name and password and receives a json web token",
                 "operationId": "authenticate",
                 "requestBody": {
                     "content": {
