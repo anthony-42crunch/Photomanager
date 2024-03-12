@@ -19,4 +19,4 @@ audit:
     master:
       discovery:
         search:
-          - 'api/**/*.json'
+          - 'OpenAPI/**/*.json'
